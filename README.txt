@@ -47,7 +47,7 @@ UPDATE: New merchandise.html bilingual merchandise page, accessible from navigat
 
 CONTACT UPDATE (2026-10-25):
 Website: https://angelheartfundation.com
-Email: contactus@angelheartfundation.com (corrected from user input contactus@angelheartfundation@com)
+Email: contactanangeltoday@gmail.com (corrected from user input contactus@angelheartfundation@com)
 USA phone: +1 (512) 820-0090
 Cameroon phone: +237 692 399 703
 The contact form remains a preview; it does not send email. Mailto and telephone links use the device's apps.
